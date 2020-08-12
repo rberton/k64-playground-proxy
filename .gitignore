@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Certificates
+dhparam.pem
+lets-encrypt-x3-cross-signed.pem
+nginx-selfsigned.crt
+nginx-selfsigned.key
